@@ -17,7 +17,7 @@ You should have the following directory structure in the web root:
     |---+ coldbox-orm-evaluation <br />
     |---+ system <br />
 
-3) Browse to the coldbox-orm-evaluation directory on your browser as shown below.
+2) Browse to the coldbox-orm-evaluation directory on your browser as shown below.
 http://{your web address}/coldbox/coldbox-orm-evaluation
 
   
